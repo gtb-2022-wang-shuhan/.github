@@ -1,5 +1,5 @@
 ## Hi there 👋 
-#!(../blob/main/assets/images/微信图片_20211117152346.jpg)
+![how to insert an image](../blob/main/assets/images/微信图片_20211117152346.jpg)
 
 <!--
 
