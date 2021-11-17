@@ -1,5 +1,5 @@
 ## Hi there 👋 
-#!(/assets/images/微信图片_20211117152346.jpg)
+#!(../blob/main/assets/images/微信图片_20211117152346.jpg)
 
 <!--
 
