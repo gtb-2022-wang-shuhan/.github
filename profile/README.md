@@ -7,7 +7,15 @@
 ![how to insert an image](https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211117152346.jpg)
 
 ### I love...
+
+:cake::doughnut::bread:Baking
 ![BAKING](https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/bak.jpg)
+
+:compass::world_map:Traveling
+![TRAVELING](https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/TRA.jpg)
+
+### The farthest country I have ever been...
+
 
 <!--
 
