@@ -3,7 +3,7 @@
 <!--
 
 **Here are some ideas to get you started:**
-/assets/images/微信图片_20211117152346.jpg
+!(/assets/images/微信图片_20211117152346.jpg)
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
