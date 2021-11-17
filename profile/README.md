@@ -7,7 +7,7 @@
 ![how to insert an image](https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211117152346.jpg)
 
 ### I love...
-!
+![BAKING] (https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/bak.jpg)
 
 <!--
 
