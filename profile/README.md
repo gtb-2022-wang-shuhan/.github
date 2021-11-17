@@ -3,6 +3,10 @@
 ### I am ... a girl :girl:
 ![this is how I look like](https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/photo.jpg)
 
+### I was learning Chemical Engineering
+
+No pics here
+
 ### This is the city where I am living now :point_down:	(Guess where :see_no_evil:)
 ![how to insert an image](https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211117152346.jpg)
 
@@ -14,9 +18,10 @@
 :compass::world_map:Traveling
 ![TRAVELING](https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/TRA.jpg)
 
-### The farthest country I have ever been...
+### The farthest country I have ever been...(PLUS my favorate)
+:iceland:
 
-
+![iceland](https://github.com/gtb-2022-wang-shuhan/.github/blob/main/profile/iceland.jpg)
 <!--
 
 **Here are some ideas to get you started:**
